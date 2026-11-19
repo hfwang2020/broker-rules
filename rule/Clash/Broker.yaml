@@ -2,10 +2,10 @@
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
 # UPDATED: 2026-11-19
-# DOMAIN-SUFFIX: 95
+# DOMAIN-SUFFIX: 106
 # DOMAIN: 22
 # IP-CIDR: 63
-# TOTAL: 180
+# TOTAL: 191
 payload:
   - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
@@ -61,6 +61,14 @@ payload:
   - DOMAIN-SUFFIX,moomootrustee.com
   - DOMAIN-SUFFIX,hstong.com
   - DOMAIN-SUFFIX,vbkr.com
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,ibllc.com
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,ibkr.com.hk
+  - DOMAIN-SUFFIX,interactivebrokers.com.sg
+  - DOMAIN-SUFFIX,ibcdn.com
+  - DOMAIN-SUFFIX,iblink.com
   - DOMAIN-SUFFIX,lbctrl.com
   - DOMAIN-SUFFIX,lbkrs.com
   - DOMAIN-SUFFIX,wbrks.com
@@ -97,6 +105,9 @@ payload:
   - DOMAIN-SUFFIX,tigerbrokers.nz
   - DOMAIN-SUFFIX,skytigris.cn
   - DOMAIN-SUFFIX,iotaskyt.com
+  - DOMAIN-SUFFIX,iotaskyty.com
+  - DOMAIN-SUFFIX,skytigris.com
+  - DOMAIN-SUFFIX,itradeup.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,tradingview-widget.com
   - DOMAIN-SUFFIX,tradingviewstore.com

@@ -2,10 +2,10 @@
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
 # UPDATED: 2026-11-19
-# HOST-SUFFIX: 95
+# HOST-SUFFIX: 106
 # HOST: 22
 # IP-CIDR: 63
-# TOTAL: 180
+# TOTAL: 191
 HOST-SUFFIX,9oju31.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,sgqt0j.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,shortconn.im.qcloud.com,Broker
@@ -60,6 +60,14 @@ HOST-SUFFIX,moomooequity.com,Broker
 HOST-SUFFIX,moomootrustee.com,Broker
 HOST-SUFFIX,hstong.com,Broker
 HOST-SUFFIX,vbkr.com,Broker
+HOST-SUFFIX,interactivebrokers.com,Broker
+HOST-SUFFIX,ibllc.com,Broker
+HOST-SUFFIX,ibkr.com,Broker
+HOST-SUFFIX,interactivebrokers.com.hk,Broker
+HOST-SUFFIX,ibkr.com.hk,Broker
+HOST-SUFFIX,interactivebrokers.com.sg,Broker
+HOST-SUFFIX,ibcdn.com,Broker
+HOST-SUFFIX,iblink.com,Broker
 HOST-SUFFIX,lbctrl.com,Broker
 HOST-SUFFIX,lbkrs.com,Broker
 HOST-SUFFIX,wbrks.com,Broker
@@ -96,6 +104,9 @@ HOST-SUFFIX,tigerbrokers.net,Broker
 HOST-SUFFIX,tigerbrokers.nz,Broker
 HOST-SUFFIX,skytigris.cn,Broker
 HOST-SUFFIX,iotaskyt.com,Broker
+HOST-SUFFIX,iotaskyty.com,Broker
+HOST-SUFFIX,skytigris.com,Broker
+HOST-SUFFIX,itradeup.com,Broker
 HOST-SUFFIX,tradingview.com,Broker
 HOST-SUFFIX,tradingview-widget.com,Broker
 HOST-SUFFIX,tradingviewstore.com,Broker
