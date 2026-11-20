@@ -1,11 +1,11 @@
 # NAME: Broker
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
-# UPDATED: 2026-11-19
-# HOST-SUFFIX: 106
+# UPDATED: 2026-11-20
+# HOST-SUFFIX: 107
 # HOST: 22
 # IP-CIDR: 63
-# TOTAL: 191
+# TOTAL: 192
 HOST-SUFFIX,9oju31.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,sgqt0j.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,shortconn.im.qcloud.com,Broker
@@ -60,6 +60,7 @@ HOST-SUFFIX,moomooequity.com,Broker
 HOST-SUFFIX,moomootrustee.com,Broker
 HOST-SUFFIX,hstong.com,Broker
 HOST-SUFFIX,vbkr.com,Broker
+HOST-SUFFIX,hstbroker.com,Broker
 HOST-SUFFIX,interactivebrokers.com,Broker
 HOST-SUFFIX,ibllc.com,Broker
 HOST-SUFFIX,ibkr.com,Broker

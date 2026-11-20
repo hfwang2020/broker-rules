@@ -1,11 +1,11 @@
 # NAME: Broker
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
-# UPDATED: 2026-11-19
-# DOMAIN-SUFFIX: 106
+# UPDATED: 2026-11-20
+# DOMAIN-SUFFIX: 107
 # DOMAIN: 22
 # IP-CIDR: 63
-# TOTAL: 191
+# TOTAL: 192
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,hstong.com
 DOMAIN-SUFFIX,vbkr.com
+DOMAIN-SUFFIX,hstbroker.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
